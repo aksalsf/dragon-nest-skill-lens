@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "class": "Gladiator",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Heavy Slash",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Infinity Edge",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Finish Attack",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Dash Slash",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Deep Straight",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003204890989.png"
+  },
+  {
+    "id": 2,
+    "class": "Moonlord",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Impact Wave",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Great Wave",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Moon Blade Dance",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Provoking Slam",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Moonlight Splitter",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003211623115.png"
+  },
+  {
+    "id": 3,
+    "class": "Barbarian",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Impact Punch",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Cyclone Axe",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Bone Crash",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Dash Blow",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Circle Swing",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003220331449.png"
+  },
+  {
+    "id": 4,
+    "class": "Destroyer",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Circle Break",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Gigantic Bomb",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Maelsstrom Howl",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Soccer Kick Combo",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Circle Bombs",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003225858088.png"
+  },
+  {
+    "id": 5,
+    "class": "Dark Avenger",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Rising Slash",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Death Knell",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Dark Crash",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Dark Riser",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Graves",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003240762787.png"
+  },
+  {
+    "id": 6,
+    "class": "Mystic Knight",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Beat Crush",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Valiant Hail",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Over Line",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Dive Comet",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Rash Drive",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003255755432.png"
+  },
+  {
+    "id": 7,
+    "class": "Grand Master",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Avoid Shot",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Dreadnaught",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Crossover",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Assault Slash",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Wind Breaker",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022020084240398.png"
+  }
+]
