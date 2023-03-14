@@ -382,5 +382,165 @@
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20221024/2022102423364918830.png"
+  },
+  {
+    "id": 13,
+    "class": "Saleana",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Flame Worm",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Fiery Vortex",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Rolling Lava",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Flame Spark",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Fire Wall",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      }
+    ],
+    "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/2022092614222145612.png"
+  },
+  {
+    "id": 14,
+    "class": "Elestra",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Glacial Spike",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Blizzard Storm",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Ice Spear",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Glacial Wive",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Icy Shards",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/2022092614280661144.png"
+  },
+  {
+    "id": 15,
+    "class": "Smasher",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Shockwave",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Eraser",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Laser Cutter",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Void Blast",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Energy Blast",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/2022092614312696305.png"
+  },
+  {
+    "id": 16,
+    "class": "Majesty",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Void Explosion",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Meteor Storm",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Switch Gravity",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Gravity Sphere",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Triple Orbs",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/202209261435558675.png"
+  },
+  {
+    "id": 17,
+    "class": "Black Mara",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Wheeling Staff",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Deadly Smoke",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Inhale",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Ebony Spark",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Main Skill",
+        "name": "Ripping",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/2022092614400751390.png"
   }
 ]
