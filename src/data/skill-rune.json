@@ -542,5 +542,165 @@
       }
     ],
     "image": "https://images-sea.dragonnest.com/cms-sea/2/20220926/2022092614400751390.png"
+  },
+  {
+    "id": 18,
+    "class": "Guardian",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Shield Blow",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Divine Avatar",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Justice Crash",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Shield Charge",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Armour Break",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220824/2022082418381448802.png"
+  },
+  {
+    "id": 19,
+    "class": "Crusader",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Divine Combo",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Thor's Hammer",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Judgement Hammer",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Divine Breaker",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Sacred Hammering",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220824/202208241839105148.png"
+  },
+  {
+    "id": 20,
+    "class": "Saint",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Holy Bolt",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Sacred Wish",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Shock of Relic",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Shock Smash",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Main Skill",
+        "name": "Lightning Relic",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220824/202208241840088181.png"
+  },
+  {
+    "id": 21,
+    "class": "Inquisitor",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Charge Bolt",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Heavenly Judgement",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Lightning Storm",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Holy Wave",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Mind Breaker",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220824/2022082418410612293.png"
+  },
+  {
+    "id": 22,
+    "class": "Arch Heretic",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Divine Combo",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Death Gate",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Sawblade",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Chaos Shield",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Carnage",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220824/2022082418420115971.png"
   }
 ]
