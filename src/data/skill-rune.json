@@ -1022,5 +1022,165 @@
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220901/2022090123405954391.png"
+  },
+  {
+    "id": 33,
+    "class": "Ripper",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Shadow Hand",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Crippling Punisher",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Arthful Chaser",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Burning Coal",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Shift Blow",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723191827522.png"
+  },
+  {
+    "id": 34,
+    "class": "Raven",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Edged Fan",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "The End",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Umbra",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Excess Chain",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Punishment",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723210376007.png"
+  },
+  {
+    "id": 35,
+    "class": "Light Fury",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Edged Fan",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Ring of Energy",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Sunshine Spark",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Piercing Star",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Chakra Rush",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723245899555.png"
+  },
+  {
+    "id": 36,
+    "class": "Abyss Walker",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Speedy Cut",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Dark Conviction",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Nightfall",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Rubicon",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Line of Darkness",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20221027/202210272330152811.png"
+  },
+  {
+    "id": 37,
+    "class": "Bleed Phantom",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Speedy Cut",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Painkiller",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Shadow Overdrive",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Deathweb",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Madness",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723322390523.png"
   }
 ]
