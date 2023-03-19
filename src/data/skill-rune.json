@@ -1182,5 +1182,165 @@
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723322390523.png"
+  },
+  {
+    "id": 38,
+    "class": "Flurry",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Deep Pierce",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Fling Sky",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Rough Sweep",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Rushing Blade",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Spinning Swing",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220206/202202061920161079.png"
+  },
+  {
+    "id": 39,
+    "class": "Sting Breezer",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Cross Cutter",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Champagne",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Poking Beehive",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Spring Haze",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Dent Blow",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220206/202202061947423655.png"
+  },
+  {
+    "id": 40,
+    "class": "Avalanche",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Wheel Blade",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Icy Blast",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Fatal Stinger",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Brandish",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Momentary Phantasm",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220206/202202061951244404.png"
+  },
+  {
+    "id": 41,
+    "class": "Randgrid",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Flash Lift",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Blaze Strike",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Counter Flare",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Rising Lava",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Land Crush",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220206/202202062103402969.png"
+  },
+  {
+    "id": 42,
+    "class": "Vena Plaga",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Grudge",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Sacrifice",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Lonely Cloud",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Injury",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Thorn of Reproof",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220206/2022020621081687989.png"
   }
 ]
