@@ -702,5 +702,165 @@
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220602/2022060220343881353.png"
+  },
+  {
+    "id": 23,
+    "class": "Shooting Start",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Quick Shot",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Summon Buster",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Splash",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Chemical Grenade",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "AP Launcher",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601154417641.png"
+  },
+  {
+    "id": 24,
+    "class": "Gear Master",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Air Shot",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Extreme Tower",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Big Mecha Bomb",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Gravity Grenades",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Mechanic Chainsaw",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601205399217.png"
+  },
+  {
+    "id": 25,
+    "class": "Adept",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Napalm Bomb",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Icicle Expression",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Ice Beam",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Icing Mass",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Magma Wall",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601280455341.png"
+  },
+  {
+    "id": 26,
+    "class": "Physician",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Force Out",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Poison Pool",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Love Virus",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Disease",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Poison Charging",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601312992053.png"
+  },
+  {
+    "id": 27,
+    "class": "Ray Mechanic",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Force Out",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Singularity",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Dynamic Fortex",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Dodge Attack",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Electronic Spanner",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601354393294.png"
   }
 ]
