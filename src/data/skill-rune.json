@@ -862,5 +862,165 @@
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220506/2022050601354393294.png"
+  },
+  {
+    "id": 28,
+    "class": "Dark Summoner",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Despair Needle",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Phantom's Avenger",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Chaos Formation",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Spirit Twinge",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Rampage Claw",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220901/2022090123161481815.png"
+  },
+  {
+    "id": 29,
+    "class": "Soul Eeater",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Soul Wind",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Dragon's Soul",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Specter of Pain",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Grudge Formation",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Soul Gate",
+        "usability": "Hmm, not so bad. Use it if u have low budget."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220901/2022090123212884096.png"
+  },
+  {
+    "id": 30,
+    "class": "Blade Dancer",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Fancy Turn",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Inner Fire",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Gust Dementia",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Sinia Turn",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Graze Dance",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220901/202209012330038662.png"
+  },
+  {
+    "id": 31,
+    "class": "Spirit Dancer",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Spirit Blow",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Storm of Ewiniar",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Praetor",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Mist Step",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Dusk Hunter",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220901/202209012336414492.png"
+  },
+  {
+    "id": 32,
+    "class": "Oracle Elder",
+    "skills": [
+      {
+        "type": "Class Mastery III",
+        "name": "Sting Breeze",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Ultimate Skill",
+        "name": "Ancient Grace",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "2nd Specialization Lv. 50 Skill",
+        "name": "Flash Tempest",
+        "usability": "Grats, sell it with a good price or use it for ur beloved character!"
+      },
+      {
+        "type": "Secondary Skill",
+        "name": "Diffused Rays",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      },
+      {
+        "type": "Main Skill",
+        "name": "Wild Spada",
+        "usability": "welp, maybe you can use it for get rune fragment."
+      }
+    ],
+    "image": "https://images-us.dragonnest.com/cms/1/20220901/2022090123405954391.png"
   }
 ]
