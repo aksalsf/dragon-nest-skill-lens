@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import data from '@/data/skill-rune.json'
+import data from '@/data/skills.json'
 
 function useApp() {
   const [keyword, setKeyword] = useState("")
@@ -11,7 +11,7 @@ function useApp() {
     skill: {
       type: "",
       name: "",
-      usability: "welp, maybe you can use it for get rune fragment."
+      usability: "trash"
     }
   })
 
