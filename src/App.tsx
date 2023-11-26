@@ -1,6 +1,6 @@
 import { useApp } from '@/hooks'
 
-import placeholder from '@/assets/jpg/placeholder.jpg'
+import placeholder from '@/assets/png/placeholder.png'
 
 function App() {
   const { data, methods } = useApp()
@@ -12,7 +12,7 @@ function App() {
             className="w-full p-4 bg-neutral-700 text-white outline-none rounded-sm"
             name="keyword"
             type="text"
-            placeholder="Tell me what you get! (Click enter after u tell us)"
+            placeholder="Type the skill name! (Click enter to search)"
             onChange={methods.handleChange}
             autoFocus
           />
