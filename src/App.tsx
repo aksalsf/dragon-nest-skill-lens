@@ -1,5 +1,7 @@
+import { Fragment } from "react"
 import { useApp } from '@/hooks'
 
+const PLACEHOLDER_ID = 0
 import placeholder from '@/assets/png/placeholder.png'
 
 function App() {
@@ -17,27 +19,31 @@ function App() {
             autoFocus
           />
         </form>
-        <hr className="border border-dashed border-neutral-700" />
-        <div className="w-full p-4 bg-neutral-700 rounded-sm">
-          <img
-            src={data.result.image || placeholder}
-            className="w-full"
-            alt={data.result.class || "good image for placeholder"}
-          />
-        </div>
-        {!!data.result.id && (
-          <div className="w-full p-4 bg-neutral-700 rounded-sm text-center">
-            <h1 className="text-amber-500 text-xl font-bold mb-1">
-              {data.result.class}
-            </h1>
-            <div className="text-neutral-300 mb-1.5">
-              ({data.result.skill.type} - {data.result.skill.name})
+        {data.result.map((char) => (
+          <Fragment key={char.id}>
+            <hr className="border border-dashed border-neutral-700" />
+            <div className="w-full p-4 bg-neutral-700 rounded-sm">
+            <img
+              src={char.image || placeholder}
+              className="w-full"
+              alt={char.class || "good image for placeholder"}
+            />
             </div>
-            <p className="text-neutral-300">
-              Is it good? <span className="text-amber-200">{data.result.skill.usability}</span>
-            </p>
-          </div>
-        )}
+            {char.id !== PLACEHOLDER_ID && (
+              <div className="w-full p-4 bg-neutral-700 rounded-sm text-center">
+                <h1 className="text-amber-500 text-xl font-bold mb-1">
+                  {char.class}
+                </h1>
+                <div className="text-neutral-300 mb-1.5">
+                  ({char.skill.type} - {char.skill.name})
+                </div>
+                <p className="text-neutral-300">
+                  Is it good? <span className="text-amber-200">{methods.generateUsabilityDescription(char.skill.usability)}</span>
+                </p>
+              </div>
+            )}
+          </Fragment>
+        ))}
         <p className="text-xs leading-5 text-neutral-300">
           This project is not affliated with Eyedentity in any way. If you find that this project is useful, please consider supporting me by sending me a bunch of gold or some Guide Star (I'm a poor player). <br />
           Made with <span className="text-red-500">❤</span> by Sayamusa (BETA)

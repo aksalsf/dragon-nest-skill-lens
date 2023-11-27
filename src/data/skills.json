@@ -16,7 +16,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Finish Attack",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -48,7 +48,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Moon Blade Dance",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -90,7 +90,7 @@
       {
         "type": "Main Skill",
         "name": "Circle Swing",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022003220331449.png"
@@ -112,7 +112,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Maelstrom Howl",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -144,7 +144,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Dark Crash",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -176,7 +176,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Over Line",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -218,7 +218,7 @@
       {
         "type": "Main Skill",
         "name": "Wind Breaker",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20230220/2023022020084240398.png"
@@ -240,7 +240,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Range Ender",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -267,7 +267,7 @@
       {
         "type": "Ultimate Skill",
         "name": "Revolution Ballista",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "2nd Specialization Lv. 50 Skill",
@@ -304,7 +304,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Hurricane Dance",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -336,7 +336,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Rising Storm",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -368,7 +368,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Tornado Shot",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -410,7 +410,7 @@
       {
         "type": "Main Skill",
         "name": "Fire Wall",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220703/202207032039092214.png"
@@ -432,7 +432,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Ice Spear",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -464,7 +464,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Laser Cutter",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -496,7 +496,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Switch Gravity",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -533,7 +533,7 @@
       {
         "type": "Secondary Skill",
         "name": "Ebony Spark",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Main Skill",
@@ -560,7 +560,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Justice Crash",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -592,7 +592,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Judgement Hammer",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -629,7 +629,7 @@
       {
         "type": "Secondary Skill",
         "name": "Shock Smash",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Main Skill",
@@ -666,7 +666,7 @@
       {
         "type": "Main Skill",
         "name": "Mind Breaker",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220602/2022060220330153249.png"
@@ -688,7 +688,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Sawblade",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -720,7 +720,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Splash",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -747,12 +747,12 @@
       {
         "type": "Ultimate Skill",
         "name": "Extreme Tower",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Big Mecha Bomb",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -784,7 +784,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Ice Beam",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -806,7 +806,7 @@
       {
         "type": "Class Mastery III",
         "name": "Force Out",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Ultimate Skill",
@@ -848,7 +848,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Dynamic Fortex",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -880,7 +880,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Chaos Formation",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -912,7 +912,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Specter of Pain",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -944,7 +944,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Gust Dementia",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -976,7 +976,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Praetor",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1008,7 +1008,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Flash Tempest",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1035,12 +1035,12 @@
       {
         "type": "Ultimate Skill",
         "name": "Crippling Punisher",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Arthful Chaser",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1082,7 +1082,7 @@
       {
         "type": "Main Skill",
         "name": "Punishment",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723210376007.png"
@@ -1104,7 +1104,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Sunshine Spark",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1136,7 +1136,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Nightfall",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1178,7 +1178,7 @@
       {
         "type": "Main Skill",
         "name": "Madness",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20221027/2022102723322390523.png"
@@ -1200,7 +1200,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Rough Sweep",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1232,7 +1232,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Poking Beehive",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1264,7 +1264,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Fatal Stinger",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1291,7 +1291,7 @@
       {
         "type": "Ultimate Skill",
         "name": "Blaze Strike",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "2nd Specialization Lv. 50 Skill",
@@ -1318,7 +1318,7 @@
       {
         "type": "Class Mastery III",
         "name": "Grudge",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Ultimate Skill",
@@ -1360,7 +1360,7 @@
       {
         "type": "2nd Specialization Lv. 50 Skill",
         "name": "Taunting Blow",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "Secondary Skill",
@@ -1402,7 +1402,7 @@
       {
         "type": "Main Skill",
         "name": "Flow Up",
-        "usability": "useful"
+        "usability": "godly"
       }
     ],
     "image": "https://images-us.dragonnest.com/cms/1/20220314/2022031401482959212.png"
@@ -1419,7 +1419,7 @@
       {
         "type": "Ultimate Skill",
         "name": "Limit Runner",
-        "usability": "useful"
+        "usability": "godly"
       },
       {
         "type": "2nd Specialization Lv. 50 Skill",
@@ -1456,7 +1456,7 @@
         {
             "type": "2nd Specialization Lv. 50 Skill",
             "name": "Cast Cassia",
-            "usability": "useful"
+            "usability": "godly"
         },
         {
             "type": "Secondary Skill",
@@ -1488,7 +1488,7 @@
         {
             "type": "2nd Specialization Lv. 50 Skill",
             "name": "Phase Blade",
-            "usability": "useful"
+            "usability": "godly"
         },
         {
             "type": "Secondary Skill",
@@ -1520,7 +1520,7 @@
         {
             "type": "2nd Specialization Lv. 50 Skill",
             "name": "Sword Storm",
-            "usability": "useful"
+            "usability": "godly"
         },
         {
             "type": "Secondary Skill",

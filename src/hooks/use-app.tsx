@@ -3,18 +3,29 @@ import { useState } from 'react'
 import data from '@/data/skills.json'
 import placeholder from '@/assets/png/placeholder.png'
 
+interface Result {
+  id: number
+  class: string
+  image: string
+  skill: {
+    type: string
+    name: string
+    usability: string
+  }
+}
+
 function useApp() {
   const [keyword, setKeyword] = useState("")
-  const [result, setResult] = useState({
+  const [result, setResult] = useState<Result[]>([{
     id: 0,
     class: "",
-    image: "",
+    image: placeholder,
     skill: {
       type: "",
       name: "",
       usability: "trash"
     }
-  })
+  }])
 
   function handleChange(event: React.ChangeEvent<HTMLInputElement>) {
     setKeyword(event.target.value)
@@ -41,7 +52,7 @@ function useApp() {
     const trimmedKeyword = keyword.trim()
 
     if (trimmedKeyword === "") {
-      setResult({
+      setResult([{
         id: 0,
         class: "",
         image: placeholder,
@@ -50,56 +61,56 @@ function useApp() {
           name: "",
           usability: "trash"
         }
-      })
+      }])
       alert("Please enter a keyword")
       return
     }
 
     const resultByEquality = data.find((char) => char.skills.some((skill) => isEquals(trimmedKeyword, skill.name)))
     if (resultByEquality) {
-      setResult({
+      setResult([{
         id: resultByEquality.id,
         class: resultByEquality.class,
         image: resultByEquality.image,
         skill: resultByEquality.skills.find((skill) => isEquals(trimmedKeyword, skill.name))!
-      })
+      }])
       return
     }
 
-    const resultByInclusion = data.find((char) => char.skills.some((skill) => isIncludes(trimmedKeyword, skill.name)))
-    if (resultByInclusion) {
-      setResult({
-        id: resultByInclusion.id,
-        class: resultByInclusion.class,
-        image: resultByInclusion.image,
-        skill: resultByInclusion.skills.find((skill) => isIncludes(trimmedKeyword, skill.name))!
-      })
+    const resultByInclusion = data.filter((char) => char.skills.some((skill) => isIncludes(trimmedKeyword, skill.name)))
+    if (resultByInclusion.length > 0) {
+      setResult(resultByInclusion.map((char) => ({
+        id: char.id,
+        class: char.class,
+        image: char.image,
+        skill: char.skills.find((skill) => isIncludes(trimmedKeyword, skill.name))!
+      })))
       return
     }
 
-    const resultByStartsWith = data.find((char) => char.skills.some((skill) => isStartsWith(trimmedKeyword, skill.name)))
-    if (resultByStartsWith) {
-      setResult({
-        id: resultByStartsWith.id,
-        class: resultByStartsWith.class,
-        image: resultByStartsWith.image,
-        skill: resultByStartsWith.skills.find((skill) => isStartsWith(trimmedKeyword, skill.name))!
-      })
+    const resultByStartsWith = data.filter((char) => char.skills.some((skill) => isStartsWith(trimmedKeyword, skill.name)))
+    if (resultByStartsWith.length > 0) {
+      setResult(resultByStartsWith.map((char) => ({
+        id: char.id,
+        class: char.class,
+        image: char.image,
+        skill: char.skills.find((skill) => isStartsWith(trimmedKeyword, skill.name))!
+      })))
       return
     }
 
-    const resultByEndsWith = data.find((char) => char.skills.some((skill) => isEndsWith(trimmedKeyword, skill.name)))
-    if (resultByEndsWith) {
-      setResult({
-        id: resultByEndsWith.id,
-        class: resultByEndsWith.class,
-        image: resultByEndsWith.image,
-        skill: resultByEndsWith.skills.find((skill) => isEndsWith(trimmedKeyword, skill.name))!
-      })
+    const resultByEndsWith = data.filter((char) => char.skills.some((skill) => isEndsWith(trimmedKeyword, skill.name)))
+    if (resultByEndsWith.length > 0) {
+      setResult(resultByEndsWith.map((char) => ({
+        id: char.id,
+        class: char.class,
+        image: char.image,
+        skill: char.skills.find((skill) => isEndsWith(trimmedKeyword, skill.name))!
+      })))
       return
     }
 
-    setResult({
+    setResult([{
       id: 0,
       class: "",
       image: placeholder,
@@ -108,8 +119,18 @@ function useApp() {
         name: "",
         usability: "trash"
       }
-    })
+    }])
     alert("No result found for " + keyword)
+  }
+  function generateUsabilityDescription(usability: string) {
+    switch (usability) {
+      case "alternative":
+        return "Another trash item, but you might use it also."
+      case "godly":
+        return "This is the best item for your class! You should use it!"
+      default:
+        return "Just disassemble it! Sometimes worth for 100~250 gold."
+    }
   }
 
   return {
@@ -118,7 +139,8 @@ function useApp() {
     },
     methods: {
       handleChange,
-      handleSubmit
+      handleSubmit,
+      generateUsabilityDescription
     }
   }
 }
