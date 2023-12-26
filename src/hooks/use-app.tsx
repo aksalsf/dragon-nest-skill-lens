@@ -125,11 +125,11 @@ function useApp() {
   function generateUsabilityDescription(usability: string) {
     switch (usability) {
       case "alternative":
-        return "Another trash item, but you might use it also."
+        return "Alternative skill you can choose for rune, but don't choose it for lunar jade."
       case "godly":
-        return "This is the best item for your class! You should use it!"
+        return "This is the best skill for your class! You should use it!"
       default:
-        return "Just disassemble it! Sometimes worth for 100~250 gold."
+        return "I don't recommend you choose it for rune or lunar jade."
     }
   }
 

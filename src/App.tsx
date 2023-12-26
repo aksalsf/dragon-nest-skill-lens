@@ -38,15 +38,17 @@ function App() {
                   ({char.skill.type} - {char.skill.name})
                 </div>
                 <p className="text-neutral-300">
-                  Is it good? <span className="text-amber-200">{methods.generateUsabilityDescription(char.skill.usability)}</span>
+                  <span className="text-amber-200">{methods.generateUsabilityDescription(char.skill.usability)}</span>
                 </p>
               </div>
             )}
           </Fragment>
         ))}
         <p className="text-xs leading-5 text-neutral-300">
-          This project is not affliated with Eyedentity in any way. If you find that this project is useful, please consider supporting me by sending me a bunch of gold or some Guide Star (I'm a poor player). <br />
-          Made with <span className="text-red-500">❤</span> by Sayamusa (BETA)
+          <strong>
+            Norfe Project: Dragon Nest Skill Lens
+          </strong> is a tool to help you find the best skill for your class in Dragon Nest. <br/>
+          Made with <span className="text-red-500">❤</span> by Sayamusa
         </p>
       </div>
     </main>
